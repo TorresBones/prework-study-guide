@@ -1,4 +1,4 @@
-# Prework Stust Guide Webpage
+# Prework Study Guide Webpage
 
 ## Description
 
